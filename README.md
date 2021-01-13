@@ -1,0 +1,2 @@
+# assets
+Asset hosting repository
